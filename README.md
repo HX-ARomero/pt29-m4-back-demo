@@ -3,7 +3,7 @@
 ## Resumenes de Clases
 
 - [01- Backend Architecture](./readmes/clases/NestJS-01.md)
-- [02- NestJS Fundamentals I]()
+- [02- NestJS Fundamentals I](./readmes/clases/NestJS-02.md)
 - [03- NestJS Fundamentals II]()
   - [Decoradores]()
   - [Providers]()
@@ -24,6 +24,10 @@
   - [npkill - Elimninar "node_modules"]()
 - [Repaso]()
   - [Regalos de fin de Módulo]()
+
+## JavaScript
+
+- [Operador de Fusión Nula](./readmes/javascript/Fusion_nula.md)
 
 ## Varios
 

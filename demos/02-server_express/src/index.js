@@ -4,7 +4,7 @@ const express = require("express");
 const PORT = process.env.PORT ? Number(process.env.PORT) : 3000;
 const HOST = process.env.HOST ? process.env.HOST : "localhost";
 
-const app = express();
+const app = express(); //* { use: () => {...}, ... }
 
 const personajes = [
   {
