@@ -26,7 +26,7 @@ let total = puntos ?? 10;
 console.log(total); // 0 (¡No usa el valor por defecto!)
 ```
 
-👉 A diferencia de ||, que considera falsy (0, "", false), ?? solo reemplaza cuando el valor es null o undefined.
+👉 A diferencia de `||`, que considera falsy (0, "", false), ?? solo reemplaza cuando el valor es null o undefined.
 
 📗 Ejemplo:
 

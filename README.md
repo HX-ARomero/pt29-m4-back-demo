@@ -4,10 +4,10 @@
 
 - [01- Backend Architecture](./readmes/clases/NestJS-01.md)
 - [02- NestJS Fundamentals I](./readmes/clases/NestJS-02.md)
-- [03- NestJS Fundamentals II]()
-  - [Decoradores]()
-  - [Providers]()
-  - [Principios SOLID con ejemplos]()
+- [03- NestJS Fundamentals II](./readmes/clases/NestJS-03.md)
+  - [Decoradores](./readmes/clases/NestJS-03-Decoradores.md)
+  - [Providers](./readmes/clases/NestJS-03-Providers.md)
+  - [Principios SOLID con ejemplos](./readmes/javascript/SOLID.md)
 - [04- NestJS Routing]()
 - [05- NestJS & TypeORM]()
 - [06- NestJS Pipes]()
@@ -28,6 +28,7 @@
 ## JavaScript
 
 - [Operador de Fusión Nula](./readmes/javascript/Fusion_nula.md)
+- [Truthy & Falsy](./readmes/javascript/Trythy_Falsy.md)
 
 ## Varios
 
