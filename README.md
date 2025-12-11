@@ -11,7 +11,7 @@
 - [04- NestJS Routing](./readmes/clases/NestJS-04.md)
 - [05- NestJS & TypeORM](./readmes/clases/NestJS-05.md)
 - [06- NestJS Pipes](./readmes/clases/NestJS-06.md)
-- [07- NestJS File Upload]()
+- [07- NestJS File Upload](./readmes/clases/NestJS-07.md)
 - [08- Autenticación I]()
 - [09- Autenticación II]()
 - 10- NestJS Testing
@@ -32,6 +32,12 @@
 - [Parámetros y Argumentos](./readmes/javascript/Parametros_Argumentos.md)
 - [Parámetros Inteligentes](./readmes/javascript/ParametrosInteligentes.md)
 - [Buenas Prácticas](./readmes/javascript/BuenasPracticas.md)
+- [NOT](./readmes/javascript/NOT.md)
+- [OR](./readmes/javascript/OR.md)
+- [Operador Ternario](./readmes/javascript/Ternario.md)
+- Trivias
+  - [Trivias - Primera Parte](./readmes/javascript/Trivia-01.md)
+
 
 ## Varios
 
