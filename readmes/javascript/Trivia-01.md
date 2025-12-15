@@ -278,7 +278,7 @@ Boolean(0); // → false
 
 👉 En JavaScript no se dice “casteo de dato”, sino “conversión de tipo” (si lo hacemos nosotros) o “coerción de tipo” (si la hace JS automáticamente).
 
-## 🎉 Gracias Brendan por darnos el Javascript 🎉
+## 🎉 Gracias Brendan por darnos Javascript 🎉
 
 <img style="width:100%" src="https://preview.redd.it/rz3o1yibnc511.png?width=320&crop=smart&auto=webp&s=c37409b381ee0027246ab40aba869cb16214db08">
 
