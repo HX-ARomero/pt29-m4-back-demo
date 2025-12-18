@@ -13,7 +13,7 @@
 - [06- NestJS Pipes](./readmes/clases/NestJS-06.md)
 - [07- NestJS File Upload](./readmes/clases/NestJS-07.md)
 - [08- Autenticación I](./readmes/clases/NestJS-08.md)
-- [09- Autenticación II]()
+- [09- Autenticación II](./readmes/clases/NestJS-09.md)
 - 10- NestJS Testing
   - [Ciclo de Vida del Software]()
   - [Testing]()
@@ -35,6 +35,7 @@
 - [NOT](./readmes/javascript/NOT.md)
 - [OR](./readmes/javascript/OR.md)
 - [Operador Ternario](./readmes/javascript/Ternario.md)
+- [Datos Curiosos](./readmes/javascript/DatosCuriosos.md)
 - Trivias
   - [Trivias - Primera Parte](./readmes/javascript/Trivia-01.md)
   - [Trivias - Segunda Parte](./readmes/javascript/Trivia-02.md)
