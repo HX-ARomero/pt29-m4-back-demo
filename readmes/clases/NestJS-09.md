@@ -1,6 +1,6 @@
 # Nest JS - Nest JS Authentication II
 
-[Volver a Inicio](../README.md)
+[Volver a Inicio](../../README.md)
 
 ## 👤 Autenticación
 
@@ -9,3 +9,5 @@
 ## 🔐 Autorización
 
 <img src="../assets/09-02(array).png" style="margin: 20px 0 60px 0">
+
+[Volver a Inicio](../../README.md)
