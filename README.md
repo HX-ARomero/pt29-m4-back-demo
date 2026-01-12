@@ -19,9 +19,8 @@
   - [Testing](./readmes/clases/NestJS-10-Testing.md)
   - [Secuencia de inicio de una aplicación NestJS](./readmes/clases/NestJS-10-NestJS.md)
 - [11- Open API / Documentation](./readmes/clases/NestJS-11.md)
-- [12- Docker]()
-  - [Datos Curiosos sobre la Programación]()
-  - [npkill - Elimninar "node_modules"]()
+- [12- Docker](./readmes/clases/NestJS-12-Docker.md)
+  - [npkill - Elimninar "node_modules"](./readmes/javascript/npkill.md)
 - [Repaso]()
   - [Regalos de fin de Módulo]()
 
